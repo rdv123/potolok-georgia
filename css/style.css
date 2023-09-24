@@ -29,7 +29,7 @@ h3,
 h4,
 h5, 
 h6 {
-    color: #030f27;
+    /* color: #030f27; */
 }
 
 a {
@@ -212,7 +212,7 @@ background: #030f27 !important;
     position: fixed;
     top: 0;
     width: 100%;
-    max-width: 1366px;
+    max-width: 1650px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, .3);
     z-index: 999;
 }
