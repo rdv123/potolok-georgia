@@ -247,6 +247,7 @@ background: #030f27 !important;
     color: #ffffff;
     border: 2px solid #ffffff;
     border-radius: 0;
+    margin-left: 10px;
 }
 
 .nav-bar .btn:hover {
